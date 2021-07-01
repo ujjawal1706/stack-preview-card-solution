@@ -31,7 +31,7 @@ To build a stat preview card component using HTML CSS and making it responsive.
 
 ### Links
 
-- Solution URL: [Code:](https://your-solution-url.com)
+- Solution URL: [Code:](https://github.com/ujjawal1706/stack-preview-card-solution)
 - Live Site URL: [Live site URL](https://your-live-site-url.com)
 
 
